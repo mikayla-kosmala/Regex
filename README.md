@@ -1,2 +1,2 @@
 # Regex
-Hacker Rank Regex challenges
+Hacker Rank Regex Challenges
